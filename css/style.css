@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis|Quicksand');
+
+body {
+    font-family: Quicksand;
+    font-size: 16px;
+}
+
+nav {
+  text-decoration: none;
+  color: white;
+}
+
+img {
+  margin-top: 50px;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+h4 {
+  margin-top: 10px;
+  color: white;
+}
+
+figcaption {
+  color: white;
+  margin-top: -5px;
+  margin-bottom : 30px;
+}
+
+h5 {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.sosmed {
+  width: 50px;
+  height:50px;
+  margin-bottom:30px;
+}
